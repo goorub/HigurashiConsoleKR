@@ -30,6 +30,10 @@
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/5649d103-66e7-4529-9fed-c06a7f08918a" />
 
+## 요이고시편 분기 이미지 가이드
+
+[링크](https://github.com/goorub/HigurashiConsoleKR/blob/main/yoig-route-guide.png)
+
  
 
 
