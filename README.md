@@ -9,11 +9,12 @@
 
 ~3. 미오츠쿠시 오모테 한국어 패치 [링크](https://github.com/s485lee/Miot_Omot_Korean/releases/tag/Release)~  
 ~4. 미오츠쿠시 우라 한국어 패치 [링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=626212)~  
-MacOS용 임시 한국어 패치 [링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=694169&exception_mode=recommend&search_head=20&page=1)
-
 Windows는 더 이상 3번과 4번 과정이 필요 없습니다. 하지만 문제가 생기는 경우에는 그냥 3,4 순서대로 하고 5 덮어쓰세요.
-MacOS는 위에 임시 한국어 패치를 진행하세요.
+
 5. 콘솔 버전 한국어 패치 [링크](https://github.com/goorub/HigurashiConsoleKR/releases/tag/%EB%B0%B0%ED%8F%AC)
+
+맥 유저) 위 5번까지 하고나서 아래를 진행하세요. 
+MacOS용 임시 한국어 패치 [링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=694169&exception_mode=recommend&search_head=20&page=1)
 
 ## 콘솔 에피소드 읽는 순서
 
