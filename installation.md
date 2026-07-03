@@ -11,7 +11,7 @@
 ## Mac
 
 1. 스팀판 히마츠부시 편 다운로드
-2. 콘솔판 모드 패치 (윈도우랑 조금 다름)
+2. 콘솔판 모드 패치
   - 기본적으로 흐름은 [이 게시글 링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=5560)를 참고하되,
   - 결과적으로는 [여기](https://wiki.07th-mod.com/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch/)에 들어가서, 아래 이미지와 같이 선택하고 설명을 읽고 설치하면 된다.
 
