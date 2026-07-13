@@ -4,8 +4,17 @@
 
 1. 스팀판 히마츠부시 편 다운로드
 2. 콘솔판 모드 패치 - [게시글 링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=5560)
-3. [배포 링크](https://github.com/goorub/HigurashiConsoleKR/releases/tag/%EB%B0%B0%ED%8F%AC)에서 `ConsoleArcsKorean{날짜}.zip` 파일을 받는다.
-   - 링크에 패치 방법 설명 되어있음.
+3. [배포 링크](https://github.com/goorub/HigurashiConsoleKR/releases/tag/%EB%B0%B0%ED%8F%AC)에서 `ConsoleArcsKorean.zip` 파일을 받는다.
+
+
+### 패치 자동 업데이트 추가
+패치 zip 파일 안에 자동 업데이트가 추가됨. 
+
+이제 시나리오 추가되거나 버그 수정될 때 자동업데이트만 켜면 바로 패치가 가능하다.
+사용법은 매우 쉬우니, 아래 설명중 아무거나 참고해서 자동 업데이트 하는것을 권장함.
+
+- [자동 업데이트 사진 설명](https://github.com/goorub/HigurashiConsoleKR/blob/main/updater.md)
+- [자동 업데이트 영상 설명](https://www.youtube.com/watch?v=PTNU-RUYHjE)
 
 
 ## Mac 유저 설치 순서
@@ -14,9 +23,10 @@
 2. 콘솔판 모드 패치
    - 기본적으로 흐름은 [이 게시글 링크](https://gall.dcinside.com/mgallery/board/view/?id=higurashi&no=5560)를 참고하되,
    - 결과적으로는 [여기](https://wiki.07th-mod.com/Higurashi/Higurashi-Part-1---Voice-and-Graphics-Patch/)에 들어가서 설명을 읽고 설치하면 된다. 
-3. [배포 링크](https://github.com/goorub/HigurashiConsoleKR/releases/tag/%EB%B0%B0%ED%8F%AC)에서 `ConsoleArcsKorean{날짜}_Mac.zip` 파일을 받는다.
+3. [배포 링크](https://github.com/goorub/HigurashiConsoleKR/releases/tag/%EB%B0%B0%ED%8F%AC)에서 `ConsoleArcsKorean_Mac.zip` 파일을 받는다.
     - 링크에 Mac 유저 패치 방법 확인
 
+Mac은 아직 자동업데이트 지원이 안된다.
 
 ### Mac 콘솔판 모드 패치 하는방법
 
