@@ -1,6 +1,9 @@
 # 쓰르라미 울 적에 콘솔 버전 한국어 패치
 
-[패치 진행도는 여기를 참고하세요](https://patch-higurashi.docum.workers.dev/docs/%EC%97%AC%ED%98%95%EC%82%AC%20%ED%8E%B8/%EC%86%8C%EB%A9%94%EC%9A%B0%EC%B8%A0%EC%8B%9C)
+## 진행도
+
+<img width="652" height="549" alt="image" src="https://github.com/user-attachments/assets/0e678e0e-a1a4-4eb9-9a00-51bb29f78cc4" />
+
 
 ## 설치 방법
 [링크](https://github.com/goorub/HigurashiConsoleKR/blob/main/installation.md) 를 참고하세요.
