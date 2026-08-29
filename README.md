@@ -2,8 +2,7 @@
 
 ## 진행도
 
-<img width="652" height="549" alt="image" src="https://github.com/user-attachments/assets/0e678e0e-a1a4-4eb9-9a00-51bb29f78cc4" />
-
+<img width="705" height="546" alt="image" src="https://github.com/user-attachments/assets/35becf61-5768-4c14-b6fb-282977ce3808" />
 
 ## 설치 방법
 [링크](https://github.com/goorub/HigurashiConsoleKR/blob/main/installation.md) 를 참고하세요.
